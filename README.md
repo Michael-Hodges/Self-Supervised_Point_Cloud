@@ -25,7 +25,7 @@ For some reason the shell script will not download the dataset:
 
 ~~For linux using wget (adjust using curl for mac)~~
 
-`~~ bash download.sh ~~` 
+` bash download.sh ` 
 
 ## Information about the dataset labeling
 In the train, validation, and test datasets there are folders labeled by numbers that represent the specific object class. Here is what these numbers mean:
