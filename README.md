@@ -3,6 +3,7 @@ This repo is code for elf-Supervised Deep Learning on Point Clouds by Reconstruc
 
 ## What this repo does
 This repo takes the ShapeNet dataset and produces a permutated and labeled data set and example is shown below: 
+
 ![alt text](https://github.com/Michael-Hodges/Self-Supervised_Point_Cloud/blob/main/images/pre_trans.png?raw=true)
 ![alt text](https://github.com/Michael-Hodges/Self-Supervised_Point_Cloud/blob/main/images/post_trans.png?raw=true)
 
