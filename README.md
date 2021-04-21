@@ -19,11 +19,38 @@ Requirements are as follows:
 - pptk (for visualization)
 
 **Download dataset as follows:**
+Go to here and download the training, validation, and test point clouds: https://shapenet.cs.stanford.edu/iccv17/
 
-For linux using wget (adjust using curl for mac)
-'''
+For some reason the shell script will not download the dataset:
+~~For linux using wget (adjust using curl for mac)
+
+```
 bash download.sh
-'''
+```
+~~
+
+## Information about the dataset labeling
+In the train, validation, and test datasets there are folders labeled by numbers that represent the specific object class. Here is what these numbers mean:
+
+```
+Airplane        02691156
+Bag             02773838
+Cap             02954340
+Car             02958343
+Chair           03001627
+Earphone        03261776
+Guitar          03467517
+Knife           03624134
+Lamp            03636649
+Laptop          03642806
+Motorbike       03790512
+Mug             03797390
+Pistol          03948459
+Rocket          04099429
+Skateboard      04225987
+Table           04379243
+```
+
 
 
 
